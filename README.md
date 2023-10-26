@@ -1,4 +1,7 @@
-<img src="https://i.postimg.cc/R0Fk2T95/machine-Learning.jpg" width="300">
+<div style="text-align:center;">
+  <img src="https://i.postimg.cc/R0Fk2T95/machine-Learning.jpg" width="300">
+</div>
+
 
 # Capstone-Project-Reading-Invoices
 
