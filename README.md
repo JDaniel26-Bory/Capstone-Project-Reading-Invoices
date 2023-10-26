@@ -8,31 +8,36 @@ This project consists of extracting information from several invoices.
 
 This project is interpreted/tested on Ubuntu 22.04 LTS/ macOS Sonoma Versión 14.0 using python3 (version 3.9.5)
 
-# Creating virtual environments
-
-```bash
-Python3 -m venv ./env: this command is used to create a new virtual environment 
-```
-```bash
-Source env/bin/activate: this command is used to activate the virtual environment
-```
-```bash
-which python3: this command is used to Location of the virtual environment
-
-```
-```bash
-deactivate: this command is used to disable the virtual environment 
-```
 ## Installation
 
+
+Clone the repository:
 ```bash
   Clone this repository: git clone https://github.com/JDaniel26-Bory/Capstone-Project-Reading-Invoices.git
 ```
+Access Capstone-Project-Reading-Invoices directory:
 ```bash
-  Access Capstone-Project-Reading-Invoices directory: cd Capstone-Project-Reading-Invoices
+ cd Capstone-Project-Reading-Invoices
 ```
+this command is used to create a new virtual environment:
 ```bash
-  pip install -r requirements.txt
+Python3 -m venv ./env: 
+```
+this command is used to activate the virtual environment:
+```bash
+Source env/bin/activate
+```
+ this command is used to Location of the virtual environment:
+```bash
+which python3
+```
+for the installation of Grounding Dino is the following repository link:
+https://github.com/IDEA-Research/GroundingDINO
+
+
+this command is used to disable the virtual environment:
+```bash
+deactivate
 ```
 ## Authors
 
