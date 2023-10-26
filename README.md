@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/R0Fk2T95/machine-Learning.jpg" width="30%">
+  <img src="https://i.postimg.cc/R0Fk2T95/machine-Learning.jpg" width="40%">
 </div>
 
 
