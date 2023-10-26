@@ -1,3 +1,4 @@
+![Logo](machineLearning.jpg)
 
 # Capstone-Project-Reading-Invoices
 
