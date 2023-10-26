@@ -1,5 +1,4 @@
-[![machine-Learning.jpg](https://i.postimg.cc/R0Fk2T95/machine-Learning.jpg)](https://postimg.cc/0zTXwDbc){:width="300px"}
-
+<img src="https://i.postimg.cc/R0Fk2T95/machine-Learning.jpg" width="300">
 
 # Capstone-Project-Reading-Invoices
 
